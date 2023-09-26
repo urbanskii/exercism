@@ -1,3 +1,3 @@
 # exercism
 
-Created for exercism chalenges 
+Created for exercism challenges 
